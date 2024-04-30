@@ -1,0 +1,22 @@
+export const datos = [
+  "./img/pngegg.png",
+  "./img/pngegg (1).png",
+  "./img/pngegg (2).png",
+
+  "./img/pngegg (4).png",
+  "./img/pngegg (5).png",
+  "./img/pngegg (6).png",
+  "./img/pngegg (7).png",
+  "./img/pngegg (8).png",
+  "./img/pngegg (9).png",
+  "./img/pngegg (10).png",
+  "./img/pngegg (11).png",
+  "./img/pngegg (12).png",
+  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/132.png",
+  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/131.png",
+  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/130.png",
+  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/129.png",
+  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/128.png",
+  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/127.png",
+  "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/126.png",
+];
