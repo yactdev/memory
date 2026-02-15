@@ -57,7 +57,7 @@ function render(n) {
             setTimeout(() => {
               lastcard[0].classList.remove("is-flipped");
               lastcard[1].classList.remove("is-flipped");
-              console.log("volteard la tarjeta");
+              console.log("volteada la tarjeta");
               options = [];
               lastcard = [];
               isComparing = false;
